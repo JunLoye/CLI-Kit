@@ -1,0 +1,5 @@
+plyer>=2.1.0
+ping3>=4.0.0
+colorama>=0.4.6
+qrcode>=7.4.2
+pillow>=10.0.0
